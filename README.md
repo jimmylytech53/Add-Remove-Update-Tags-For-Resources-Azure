@@ -5,12 +5,15 @@
 
 <p>I hands on adding, removing, and updating tags for the financial department handling resources Microsoft Azure</p>
 
-<ul>
+<div align="left">
+  <ul>
   <li>Adding tags to the Resource Group</li>
   <li>Removing tags fpr VM and Mark for Deletion</li>
   <li>Change Tags for the VM</li>
   
 </ul>
+</div>
+
 
 
 <img width="1878" height="997" alt="image" src="https://github.com/user-attachments/assets/291ebc53-1885-4fa8-b11b-dd9a339371c0" />
